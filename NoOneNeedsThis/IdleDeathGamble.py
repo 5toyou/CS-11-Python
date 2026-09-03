@@ -36,7 +36,7 @@ while True:
             print("You got 1000 tickets")
 
         case _:
-            print("99.9% of gamblers quit before hitting big")
+            print("99.9% of gamblers quit before hitting it big")
             break
 
     
